@@ -1,4 +1,4 @@
-# Snake_Python
+# Snake made with Python!
 
 This was a fun Project, its just your basic Snake game written with Pygame.
 
